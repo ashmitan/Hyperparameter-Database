@@ -1,0 +1,21 @@
+,0
+start_time,1556318213.0160449
+target,
+server_path,C:\Users\Ashmita\Desktop\Data Science Assignments\Final Project\hyperparameter-db-project-ds14\Python scripts\66Az1SQUw\xLLNTI7O5
+data_path,
+test_path,
+max_models,9
+run_time,1500
+run_id,14Gag98ym
+scale,False
+classification,False
+model_path,
+balance,False
+balance_threshold,0.2
+project,
+end_time,1556318213.0160449
+execution_time,0.0
+run_path,C:\Users\Ashmita\Desktop\Data Science Assignments\Final Project\hyperparameter-db-project-ds14\Python scripts\66Az1SQUw\xLLNTI7O5\14Gag98ym
+nthreads,1
+min_mem_size,1
+analysis,0

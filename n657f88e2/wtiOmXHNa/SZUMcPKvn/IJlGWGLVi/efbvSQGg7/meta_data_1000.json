@@ -1,0 +1,22 @@
+{
+    "start_time": 1555918563.508581,
+    "target": "Claim",
+    "server_path": "C:\\Users\\Ashmita\\Desktop\\Data Science Assignments\\Final Project\\n657f88e2",
+    "data_path": "train.csv",
+    "test_path": null,
+    "max_models": 9,
+    "run_time": 500,
+    "run_id": "wtiOmXHNa",
+    "scale": false,
+    "classification": false,
+    "model_path": null,
+    "balance": false,
+    "balance_threshold": 0.2,
+    "project": "Claim_hyperparameters.json",
+    "end_time": 1555918563.508581,
+    "execution_time": 0.0,
+    "run_path": "C:\\Users\\Ashmita\\Desktop\\Data Science Assignments\\Final Project\\n657f88e2\\wtiOmXHNa",
+    "nthreads": 1,
+    "min_mem_size": 3,
+    "analysis": 0
+}

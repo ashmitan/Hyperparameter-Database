@@ -1,0 +1,21 @@
+,0
+start_time,1555918563.508581
+target,Claim
+server_path,C:\Users\Ashmita\Desktop\Data Science Assignments\Final Project\n657f88e2
+data_path,train.csv
+test_path,
+max_models,9
+run_time,500
+run_id,wtiOmXHNa
+scale,False
+classification,False
+model_path,
+balance,False
+balance_threshold,0.2
+project,Claim_hyperparameters.json
+end_time,1555918563.508581
+execution_time,0.0
+run_path,C:\Users\Ashmita\Desktop\Data Science Assignments\Final Project\n657f88e2\wtiOmXHNa
+nthreads,1
+min_mem_size,3
+analysis,0
